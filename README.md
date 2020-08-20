@@ -1,2 +1,1 @@
-# DAT301
-DAT301-asu-fall2020
+# Teaching @ ASU
