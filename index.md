@@ -10,6 +10,6 @@ This course focuses on first steps in data processing and exploratory data analy
 
 [lecture 1](https://github.com/slan-teaching/DAT301/blob/master/lecture_notes/Lec1-getting-started-with-R.pdf)
 
-[lecture 2](https://github.com/slan-teaching/DAT301/blob/master/lecture_notes/Lec2-rand-vars-and-data.html) 
+[lecture 2](https://htmlpreview.github.io/?https://github.com/slan-teaching/DAT301/blob/master/lecture_notes/Lec2-rand-vars-and-data.html) 
 
-[lecture 3](https://github.com/slan-teaching/DAT301/blob/master/lecture_notes/Lec3-basic-plots.html) 
+[lecture 3](https://htmlpreview.github.io/?https://github.com/slan-teaching/DAT301/blob/master/lecture_notes/Lec3-basic-plots.html) 
