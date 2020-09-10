@@ -8,7 +8,7 @@ This course focuses on first steps in data processing and exploratory data analy
 
 ### Lecture Notes
 
-** How to download ** Open terminal, go to any folder you want to store on your computer, type: `git clone https://github.com/slan-teaching/DAT301.git` (only once); you can download more lectures in future by `git pull` in the terminal under the folder `DAT301` (use `cd`). If you are not familiar with Github, google 'github clone'.
+** How to download ** Open terminal, go to any folder you want to store on your computer, type: `git clone https://github.com/slan-teaching/DAT301.git` (only once); you can download more lectures in future by `git pull` in the terminal under the folder `DAT301` (use `cd` to go to this folder). If you are not familiar with GitHub, google 'github clone'.
 
 [lecture 1](https://github.com/slan-teaching/DAT301/blob/master/lecture_notes/Lec1-getting-started-with-R.pdf)
 
