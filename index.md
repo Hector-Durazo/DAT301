@@ -21,7 +21,7 @@ This course focuses on first steps in data processing and exploratory data analy
 
 [lecture 3](https://github.com/slan-teaching/DAT301/blob/master/lecture_notes/Lec3-basic-plots.html)
 
-[lecture 4](https://github.com/slan-teaching/DAT301/tree/master/lecture_notes)
+[lecture 4](https://github.com/slan-teaching/DAT301/blob/master/lecture_notes/Lec4-basic-workflow.html)
 
 ### Data
 
