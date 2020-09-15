@@ -30,4 +30,5 @@ This course focuses on first steps in data processing and exploratory data analy
 ### Labs
 
 [Lab 1](https://github.com/slan-teaching/DAT301/blob/master/assignments/Lab1.pdf)
+
 [sample RMarkdown](https://github.com/slan-teaching/DAT301/blob/master/assignments/Sample.Rmd)
