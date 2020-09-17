@@ -25,6 +25,8 @@ This course focuses on first steps in data processing and exploratory data analy
 
 [lecture 5](https://github.com/slan-teaching/DAT301/blob/master/lecture_notes/Lec5-apply-family.html)
 
+[lecture 6](https://github.com/slan-teaching/DAT301/blob/master/lecture_notes/Lec6-more-data-manipulation.html)
+
 ### Data
 
 [Absenteeism_at_work](https://github.com/slan-teaching/DAT301/blob/master/assignments/Absenteeism_at_work.csv)
