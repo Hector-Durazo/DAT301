@@ -32,6 +32,8 @@ This course focuses on first steps in data processing and exploratory data analy
 
 [lecture 8](https://github.com/slan-teaching/DAT301/blob/master/lecture_notes/Lec8-Regression.html)
 
+[lecture 9](https://github.com/slan-teaching/DAT301/blob/master/lecture_notes/Lec9-Ioslides-and-Plotly.html)
+
 ### Data
 
 [Absenteeism_at_work](https://github.com/slan-teaching/DAT301/blob/master/assignments/Absenteeism_at_work.csv)
