@@ -8,7 +8,7 @@ This course focuses on first steps in data processing and exploratory data analy
 * Lecture notes have been uploaded to `canvas --> files --> lecture_notes`. You can download them from there if you have trouble with `Github`.
 * Homework 2 is avaible at [mathds.asu.edu](mathds.asu.edu). Log in with your ASU ID. Due **11:59pm Frida 10/02/2020**. Please start early and post questions on Slack.
 * Grader has virtual office hours T3-5p & Th2-3p @[http://asu.zoom.us/my/mathtutoring](http://asu.zoom.us/my/mathtutoring).
-* Midterm project I is available on canvas. You are required to form teams. Please read the instruction carefully. It is due **11:59pm Friday 10/16/2020**.
+* Midterm project is available on canvas. You are required to form teams. Please read the instruction carefully. It is due **11:59pm Friday 10/16/2020**.
 
 ### Syllabus
 
