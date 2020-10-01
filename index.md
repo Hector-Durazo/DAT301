@@ -50,4 +50,4 @@ This course focuses on first steps in data processing and exploratory data analy
 
 ### Projects
 
-[Midterm Project](https://github.com/slan-teaching/DAT301/blob/master/projects/Midterm.html)    [sample ioslides](https://github.com/slan-teaching/DAT301/blob/master/projects/Midterm.html)
+[Midterm Project](https://github.com/slan-teaching/DAT301/blob/master/projects/Midterm.html)    [sample ioslides](https://github.com/slan-teaching/DAT301/blob/master/projects/Midterm.Rmd)
