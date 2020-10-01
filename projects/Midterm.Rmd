@@ -8,7 +8,7 @@ output: ioslides_presentation
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Midterm Project I
+## Midterm Project
 
 For midterm project you need to choose a topic that requires either a data manipulation or machine learning technique that should be equivalent in load to about 2 labs or homework assignments. 
 
