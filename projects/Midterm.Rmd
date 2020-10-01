@@ -1,5 +1,5 @@
 ---
-title: "DAT 301 Midterm Project I"
+title: "DAT 301 Midterm Project"
 subtitle: due 11:59pm Friday, October 16, 2020
 output: ioslides_presentation
 ---
