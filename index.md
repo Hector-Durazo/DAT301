@@ -7,6 +7,7 @@ This course focuses on first steps in data processing and exploratory data analy
 * All the video recordings can now be found at `canvas -> zoom -> could recordings`. I will not post it at `modules` as the space is limited.
 * Lecture notes have been uploaded to `canvas --> files --> lecture_notes`. You can download them from there if you have trouble with `Github`.
 * Homework 2 is avaible at [mathds.asu.edu](mathds.asu.edu). Log in with your ASU ID. Due **11:59pm Frida 10/02/2020**. Please start early and post questions on Slack.
+* Grader has virtual office hours T3-5p & Th2-3p @[http://asu.zoom.us/my/mathtutoring](http://asu.zoom.us/my/mathtutoring).
 
 ### Syllabus
 
@@ -33,6 +34,8 @@ This course focuses on first steps in data processing and exploratory data analy
 [lecture 8](https://github.com/slan-teaching/DAT301/blob/master/lecture_notes/Lec8-Regression.html)
 
 [lecture 9](https://github.com/slan-teaching/DAT301/blob/master/lecture_notes/Lec9-Ioslides-and-Plotly.html)
+
+[lecture 10](https://github.com/slan-teaching/DAT301/blob/master/lecture_notes/Lec10-ggplot2.html)
 
 ### Data
 
