@@ -1,0 +1,46 @@
+---
+title: "Tables"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r iris}
+summary(iris)
+```
+
+## Including tables
+
+You can also embed tables, for example:
+
+```{r iris2}
+iris2 <- head(iris)
+
+library(knitr)
+kable(iris2, align = "lccrr")
+```
+
+Alternatively, one can use `ggtexttable` from `ggpubr`:
+
+```{r}
+library(ggpubr)
+ggtexttable(iris2)
+```
+
+Or you can embed table in a more interactive way using `datatable` from `DT`:
+
+```{r}
+library(DT)
+brks <- quantile(iris$Sepal.Width, probs = seq(.05, .95, .05), na.rm = TRUE)
+clrs <- round(seq(255, 40, length.out = length(brks) + 1), 0) %>%
+  {paste0("rgb(255,", ., ",", ., ")")}
+datatable(iris) %>% formatStyle('Sepal.Width', backgroundColor = styleInterval(brks, clrs))
+```
