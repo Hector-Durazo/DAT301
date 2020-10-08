@@ -36,7 +36,7 @@ This course focuses on first steps in data processing and exploratory data analy
 
 [lecture 9](https://github.com/slan-teaching/DAT301/blob/master/lecture_notes/Lec9-Ioslides-and-Plotly.html)
 
-[lecture 10](https://github.com/slan-teaching/DAT301/blob/master/lecture_notes/Lec10-ggplot2.html)
+[lecture 10](https://github.com/slan-teaching/DAT301/blob/master/lecture_notes/Lec10-ggplot2.html); [tables](https://github.com/slan-teaching/DAT301/blob/master/misc/table_ex.html)
 
 ### Data
 
