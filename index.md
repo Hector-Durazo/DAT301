@@ -40,6 +40,8 @@ This course focuses on first steps in data processing and exploratory data analy
 
 [lecture 11](https://github.com/slan-teaching/DAT301/blob/master/lecture_notes/Lec11-animation.html); [Rmd](https://github.com/slan-teaching/DAT301/blob/master/lecture_notes/Lec11-animation.Rmd)
 
+[lecture 12](https://github.com/slan-teaching/DAT301/blob/master/lecture_notes/Lec12-shiny.Rmd)
+
 ### Data
 
 [Absenteeism_at_work](https://github.com/slan-teaching/DAT301/blob/master/assignments/Absenteeism_at_work.csv)
