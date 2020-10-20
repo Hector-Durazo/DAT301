@@ -42,6 +42,8 @@ This course focuses on first steps in data processing and exploratory data analy
 
 [lecture 12](https://github.com/slan-teaching/DAT301/blob/master/lecture_notes/Lec12-shiny.Rmd)
 
+[lecture 13](https://github.com/slan-teaching/DAT301/blob/master/lecture_notes/Lec13-Getting-started-with-iPython-Notebook.html);  [notebook](https://github.com/slan-teaching/DAT301/blob/master/lecture_notes/Lec13-Getting-started-with-iPython-Notebook.ipynb)
+
 ### Data
 
 [Absenteeism_at_work](https://github.com/slan-teaching/DAT301/blob/master/assignments/Absenteeism_at_work.csv)
