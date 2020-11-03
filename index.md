@@ -43,7 +43,9 @@ This course focuses on first steps in data processing and exploratory data analy
 
 [lecture 13](https://github.com/slan-teaching/DAT301/blob/master/lecture_notes/Lec13-Getting-started-with-iPython-Notebook.html);  [notebook](https://github.com/slan-teaching/DAT301/blob/master/lecture_notes/Lec13-Getting-started-with-iPython-Notebook.ipynb)
 
-[lecture 14](https://github.com/slan-teaching/DAT301/blob/master/lecture_notes/Lec13-Getting-started-with-iPython-Notebook.html);  [notebook](https://github.com/slan-teaching/DAT301/blob/master/lecture_notes/Lec13-Getting-started-with-iPython-Notebook.ipynb)
+[lecture 14](https://github.com/slan-teaching/DAT301/blob/master/lecture_notes/Lec14-Data-Structures-and-Functions.html);  [notebook](https://github.com/slan-teaching/DAT301/blob/master/lecture_notes/Lec14-Data-Structures-and-Functions.ipynb)
+
+[lecture 15](https://github.com/slan-teaching/DAT301/blob/master/lecture_notes/Lec15-Numpy-w-Matplotlib.html);  [notebook](https://github.com/slan-teaching/DAT301/blob/master/lecture_notes/Lec15-Numpy-w-Matplotlib.ipynb)
 
 ### Data
 
