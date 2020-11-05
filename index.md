@@ -7,7 +7,7 @@ This course focuses on first steps in data processing and exploratory data analy
 * All the video recordings can now be found at `canvas -> zoom -> could recordings`. I will not post it at `modules` as the space is limited.
 * Lecture notes have been uploaded to `canvas --> files --> lecture_notes`. You can download them from there if you have trouble with `Github`.
 * Grader has virtual office hours T3-5p & Th2-3p @[http://asu.zoom.us/my/mathtutoring](http://asu.zoom.us/my/mathtutoring).
-* Homework 3 is avaible on NBGrader. Due **11:59pm Friday 10/30/2020**. Please start early and post questions on Slack.
+* Homework 4 is avaible on NBGrader. Due **11:59pm Friday 11/13/2020**. Please start early and post questions on Slack.
 
 ### Syllabus
 
