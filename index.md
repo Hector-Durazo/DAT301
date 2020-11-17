@@ -47,6 +47,8 @@ This course focuses on first steps in data processing and exploratory data analy
 
 [lecture 15](https://github.com/slan-teaching/DAT301/blob/master/lecture_notes/Lec15-Numpy-w-Matplotlib.html);  [notebook](https://github.com/slan-teaching/DAT301/blob/master/lecture_notes/Lec15-Numpy-w-Matplotlib.ipynb)
 
+[lecture 16](https://github.com/slan-teaching/DAT301/blob/master/lecture_notes/Lec16-ch05-Pandas.html);  [notebook](https://github.com/slan-teaching/DAT301/blob/master/lecture_notes/Lec16-ch05-Pandas.ipynb)
+
 ### Data
 
 [Absenteeism_at_work](https://github.com/slan-teaching/DAT301/blob/master/assignments/Absenteeism_at_work.csv)
