@@ -63,6 +63,8 @@ This course focuses on first steps in data processing and exploratory data analy
 
 [Lab 2](https://github.com/slan-teaching/DAT301/blob/master/assignments/Lab2.pdf)    [solution-pdf](https://github.com/slan-teaching/DAT301/blob/master/assignments/lab2-solution.pdf)    [solution-rmd](https://github.com/slan-teaching/DAT301/blob/master/assignments/lab2-solution.Rmd)
 
+[Lab 3](https://github.com/slan-teaching/DAT301/blob/master/assignments/Lab3.ipynb)    [html](https://github.com/slan-teaching/DAT301/blob/master/assignments/Lab3.html)
+
 ### Projects
 
 [Midterm Project](https://github.com/slan-teaching/DAT301/blob/master/projects/Midterm.html)    [sample ioslides](https://github.com/slan-teaching/DAT301/blob/master/projects/Midterm.Rmd)
