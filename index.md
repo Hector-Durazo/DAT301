@@ -49,6 +49,8 @@ This course focuses on first steps in data processing and exploratory data analy
 
 [lecture 16](https://github.com/slan-teaching/DAT301/blob/master/lecture_notes/Lec16-ch05-Pandas.html);  [notebook](https://github.com/slan-teaching/DAT301/blob/master/lecture_notes/Lec16-ch05-Pandas.ipynb)
 
+[lecture 17](https://github.com/slan-teaching/DAT301/blob/master/lecture_notes/Lec17-Web-Scraping.html);  [notebook](https://github.com/slan-teaching/DAT301/blob/master/lecture_notes/Lec17-Web-Scraping.ipynb)
+
 ### Data
 
 [Absenteeism_at_work](https://github.com/slan-teaching/DAT301/blob/master/assignments/Absenteeism_at_work.csv)
