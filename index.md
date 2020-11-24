@@ -59,6 +59,8 @@ This course focuses on first steps in data processing and exploratory data analy
 
 [WAC2019-100m-women](https://github.com/slan-teaching/DAT301/blob/master/lecture_notes/WAC2019-100m-women.csv);  [excel](https://github.com/slan-teaching/DAT301/blob/master/lecture_notes/WAC2019-100m-women.xlsx)
 
+[SP500](https://github.com/slan-teaching/DAT301/blob/master/lecture_notes/spx.csv)
+
 ### Labs
 
 [sample RMarkdown](https://github.com/slan-teaching/DAT301/blob/master/assignments/Sample.Rmd)
