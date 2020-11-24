@@ -61,6 +61,8 @@ This course focuses on first steps in data processing and exploratory data analy
 
 [SP500](https://github.com/slan-teaching/DAT301/blob/master/lecture_notes/spx.csv)
 
+[tips](https://github.com/slan-teaching/DAT301/blob/master/lecture_notes/tips.csv)
+
 ### Labs
 
 [sample RMarkdown](https://github.com/slan-teaching/DAT301/blob/master/assignments/Sample.Rmd)
