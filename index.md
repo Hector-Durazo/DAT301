@@ -13,7 +13,7 @@ This course focuses on first steps in data processing and exploratory data analy
 
 [syllabus](https://github.com/slan-teaching/DAT301/blob/master/syllabus_DAT301.pdf)
 
-### Lecture Notes
+### Lecture Notes (credit to Dr. [Marko Samara](https://math.asu.edu/node/1640))
 
 **How to download** Open terminal, go to any folder you want to store on your computer, type: `git clone https://github.com/slan-teaching/DAT301.git` (only once); you can download more lectures in future by `git pull` in the terminal under the folder `DAT301` (use `cd` to go to this folder). If you are not familiar with GitHub, google 'github clone'.
 
