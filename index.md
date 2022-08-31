@@ -6,7 +6,7 @@ This course focuses on first steps in data processing and exploratory data analy
 
 * Welcome! Masks are recommended in classroom. If you cannot attend in person for some reason, use the [zoom](https://asu.zoom.us/j/82523631501?pwd=VUNGenJ1bHhmWFg1L3hoOVNVMldEQT09).
 * All the video recordings can now be found at `canvas -> zoom -> could recordings`. I will not post it at `modules` as the space is limited.
-* Lecture notes have been uploaded to `canvas --> files --> lecture_notes`. You can download them from there if you have trouble with `Github`.
+* Coding assignment 1 is available on [NBGrader](mathds.asu.edu). The deadline is **11:59pm Friday 9/9/2022**.
 
 ### Syllabus
 
